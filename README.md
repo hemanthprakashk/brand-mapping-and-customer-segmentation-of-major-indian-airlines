@@ -28,7 +28,7 @@ The sentiment analysis has been carried out by categorizing the reviews into 10 
 * Flight Features
 * Special Assistance
 * Seat Comfort
-A lexicon-based approach (VADER) was used for sentiment analysis.
+* A lexicon-based approach (VADER) was used for sentiment analysis.
 
 # PCA and Factor Biplot
 PCA Biplot and Factor Biplot were used for brand positioning and to understand the strengths and weaknesses of each airline.
